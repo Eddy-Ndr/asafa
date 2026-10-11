@@ -1,0 +1,6 @@
+{
+  "name": "ASAFA",
+  "description": "Application mobile officielle ASAFA pour la gestion des équipes SOALIA, MPIANTSA, TOMIMA et ASAFA, membres, chants, programmes, galerie, resadresaka et finances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
